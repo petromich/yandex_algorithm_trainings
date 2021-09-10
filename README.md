@@ -1,2 +1,2 @@
-# yandex_algorithm_trainings
+# Yandex algorithm trainings
 Solutions to programming contests
