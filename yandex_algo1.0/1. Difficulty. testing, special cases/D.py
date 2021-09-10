@@ -12,3 +12,4 @@ elif (c * c - b) / a * a + b < 0 or ((c * c - b) / a).is_integer() == False:
     print('NO SOLUTION')
 else:
     print(int((c * c - b) / a))
+    
