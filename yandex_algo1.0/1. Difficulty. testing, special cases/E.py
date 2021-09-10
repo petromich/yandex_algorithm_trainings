@@ -56,4 +56,3 @@ else:
                 else:
                     p2 = 0
                 print(p1, p2)
-
