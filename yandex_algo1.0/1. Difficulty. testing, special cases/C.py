@@ -28,8 +28,3 @@ if(pars(a1) == pars(a4)):
     print('YES')
 else:
     print('NO')
-
-
-
-
-
